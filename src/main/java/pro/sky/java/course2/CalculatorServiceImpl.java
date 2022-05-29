@@ -40,5 +40,4 @@ public class CalculatorServiceImpl implements CalculatorService {
             return "<b>Кривое деление:</b> " + firstNum + " / " + secondNum + " = " + div;
         }
     }
-
 }
